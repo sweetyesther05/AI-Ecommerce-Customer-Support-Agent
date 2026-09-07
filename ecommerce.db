@@ -1,0 +1,37 @@
+Tables
+ecommerce.db
+Tables
+5
+2 rows
+2
+CustomerMemory
+2 rows
+Customers
+2 rows
+Orders
+3 rows
+Products
+4 rows
+Returns
+2 rows
+Database Client
+Powered byDatabase Client
+
+CustomerMemory
+2 rows
+
+memory_id
+customer_id
+memory_key
+memory_value
+created_at
+1
+CUST001
+preferred_category
+Headphones and running shoes
+2026-09-07 09:17:31
+2
+CUST001
+preferred_budget
+Below ₹3000
+2026-09-07 09:17:48
